@@ -1,7 +1,5 @@
 const container = document.querySelector('.container');
 
-const URL = `https://randomfox.ca/floof/`;
-
 async function loadImages(numImgs = 8) {
     for (let i = 0; i < numImgs; i++) {
         try {
