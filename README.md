@@ -23,31 +23,31 @@ This is a simple web page that displays random fox images using the [RandomFox A
 - JavaScript
 - Fetch API
 
-# Where is Infinite Scroll Used? 🖱️📜  
+## Where is Infinite Scroll Used? 🖱️📜  
 
 Infinite scroll is used when we want to **load content continuously** as the user scrolls, instead of using pagination. It is useful in:  
 
-## 1️⃣ Social Media Feeds  
+### 1️⃣ Social Media Feeds  
 - Platforms like **Facebook, Instagram, Twitter, LinkedIn** use infinite scroll to show posts endlessly.  
 - Instead of clicking "Next Page," new posts appear as you scroll.  
 
-## 2️⃣ Image Galleries  
+### 2️⃣ Image Galleries  
 - Websites like **Pinterest, Unsplash, Google Images** load new images dynamically.  
 - Great for users who keep exploring without reloading the page.  
 
-## 3️⃣ News & Articles  
+### 3️⃣ News & Articles  
 - News sites like **BBC, CNN, Medium** use infinite scrolling for articles.  
 - Readers get new content without clicking "Next Page."  
 
-## 4️⃣ E-commerce & Product Listings  
+### 4️⃣ E-commerce & Product Listings  
 - Shopping websites like **Amazon, Flipkart, eBay** load products dynamically.  
 - Users can keep scrolling through endless product listings.  
 
-## 5️⃣ Chat Applications  
+### 5️⃣ Chat Applications  
 - Apps like **WhatsApp, Messenger, Discord** use infinite scrolling in chat history.  
 - Old messages load as you scroll up.  
 
-## 6️⃣ Data Dashboards  
+### 6️⃣ Data Dashboards  
 - Used in **stock market apps, analytics dashboards**, and large datasets.  
 - Helps display data without loading everything at once.  
 
