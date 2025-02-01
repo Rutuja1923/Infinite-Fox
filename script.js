@@ -1,6 +1,6 @@
 const container = document.querySelector('.container');
 
-async function loadImages(numImgs = 8) {
+async function loadImages(numImgs = 6) {
     for (let i = 0; i < numImgs; i++) {
         try {
             const response = await fetch('https://randomfox.ca/floof/');
